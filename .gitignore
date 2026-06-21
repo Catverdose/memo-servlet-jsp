@@ -1,0 +1,17 @@
+# DB 비밀 설정
+/src/main/resources/db.properties
+
+# Eclipse 작업공간
+.metadata/
+.settings/
+
+# 컴파일 결과
+bin/
+target/
+# Java 컴파일 결과
+/build/
+*.class
+
+
+# 로그
+*.log
